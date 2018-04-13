@@ -6,16 +6,29 @@ h1 {
     font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
+    width: : 100%;
+    background-color: #a8d7f7;
+    text-align: center;
+
 }
 
 h2 {
     margin: 1em 0 0.25em;
+    padding: 10px;
 }
 
-h2:first-of-type {
-    margin-top: 0.5em;
+#submit{
+    margin:1vmin;
 }
 
+ h2:first-of-type {
+    margin-topn: 0.5em;
+} 
+
+#inputHeight{
+    margin-right: 1vmin;
+
+}
 table,
 tr,
 td {
